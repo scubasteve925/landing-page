@@ -1,0 +1,28 @@
+img {
+width: 100px;
+}
+
+.top {
+    display: flex;
+    background-color: rgb(2, 14, 79);
+    color: white;
+    padding: 15px;
+    justify-content: space-between;
+    align-items:center;
+    margin: -10px;
+}
+
+.header {
+    margin: 0px 70px
+}
+
+
+ul {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    font-size: x-small;
+    margin: 0px 50px;
+    flex-wrap: nowrap;
+}
+
